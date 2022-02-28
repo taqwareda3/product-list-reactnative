@@ -1,0 +1,6 @@
+1- npm i -g expo-cli 
+   npm i -g yarn 
+to create new project 
+ - expo init projectname 
+ -> blank 
+
